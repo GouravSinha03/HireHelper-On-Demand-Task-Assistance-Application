@@ -119,7 +119,7 @@ HireHelper/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/HireHelper-On-Demand-Task-Assistance-Application.git
+git clone https://github.com/GouravSinha03/HireHelper-On-Demand-Task-Assistance-Application.git
 cd HireHelper-On-Demand-Task-Assistance-Application
 ```
 ```bash
